@@ -2,7 +2,7 @@
 
 Accident Analysis in the US
 
-# STeps
+# Steps
 1. Download the data set from Kaggle
 2. Perform data Preparation, cleaning using pandas, & Numpy
 3. Perform exploratory Analysis and visualization using Matplotlib and Seaborn
