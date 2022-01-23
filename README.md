@@ -7,4 +7,4 @@ Accident Analysis in the US
 2. Perform data Preparation, cleaning using pandas, & Numpy
 3. Perform exploratory Analysis and visualization using Matplotlib and Seaborn
 4. Summarize derivations and write a conclusion
-5. Document, publish and present my jupyter notebook online
+5. Document, publish online
